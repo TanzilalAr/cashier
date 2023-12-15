@@ -1,0 +1,1 @@
+export {default as ikan} from "./ikan.js";
